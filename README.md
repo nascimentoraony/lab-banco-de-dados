@@ -14,10 +14,10 @@ Como Utilizar:
 
 Você pode criar seus póprios arquivos dentro do VScode e executá-los diretamente no banco em nuvem clicando em "Run on active connection", visualizando o grid com os resultados das consultas na janela aberta na lateral.
 
-<img width="235" height="43" alt="image" src="https://github.com/user-attachments/assets/973fc250-68f9-4d7a-b174-35605699a4ce" />
+<img width="705" height="129" alt="image" src="https://github.com/user-attachments/assets/973fc250-68f9-4d7a-b174-35605699a4ce" />
 
 
 - Credenciais do Banco: 
-    User: aluno
-    Database: universidade
-    Senha: alunovscode
+    * User: aluno
+    * Database: universidade
+    * Senha: alunovscode
