@@ -1,0 +1,29 @@
+{
+  "name": "Laboratório de Banco de Dados",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/workspace",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "mtxr.sqltools",
+        "mtxr.sqltools-driver-pg"
+      ],
+      "settings": {
+        "sqltools.connections": [
+          {
+            "name": "PostgreSQL da Turma",
+            "dialect": "PostgreSQL",
+            "server": "localhost",
+            "port": 5432,
+            "database": "universidade",
+            "username": "aluno",
+            "password": "alunovscode",
+            "askForPassword": false,
+            "isActive": true
+          }
+        ]
+      }
+    }
+  }
+}
