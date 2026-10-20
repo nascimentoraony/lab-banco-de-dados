@@ -13,7 +13,7 @@
         "sqltools.connections": [
           {
             "name": "PostgreSQL da Turma",
-            "dialect": "PostgreSQL",
+            "driver": "PostgreSQL",
             "server": "localhost",
             "port": 5432,
             "database": "universidade",
